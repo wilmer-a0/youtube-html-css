@@ -10,9 +10,3 @@ En este repositorio encontrarás los recursos para seguir los [Curso de _HTML_ &
 1. [🔵 Efectos Visuales y Movimiento en _CSS_](https://www.youtube.com/watch?v=mVhoGXkDbMw)
 1. [🔴 Responsive y Arquitectura _CSS_](https://www.youtube.com/watch?v=udGrXWeJp1Y)
 
-## Mis Redes Sociales
-
-- 🔔 Suscríbete al canal https://youtube.com/jonmircha?sub_confirmation=1 🤓
-- 👉 Visita mi sitio web https://jonmircha.com/ 💻
-- 🌮 ¿Me invítas un taco? https://www.paypal.me/jonmircha
-- 📫 Suscríbete a mi lista de correo https://tinyletter.com/jonmircha/
